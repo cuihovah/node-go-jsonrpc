@@ -19,7 +19,7 @@ class JSONRPC {
             })
             this.client.on('data', (data) => {
                 try {
-                    const ret = JSON.parse(data)
+                    const ret = JSON.parse(data.toString())
                     if (ret.error !== null) {
                         this.client.destroy()
                         reject(new Error(ret.error))
