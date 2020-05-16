@@ -1,6 +1,6 @@
 {
   "name": "node-go-jsonrpc",
-  "version": "1.0.0",
+  "version": "v0.1.2",
   "description": "The client jsonrpc for golang",
   "main": "main.js",
   "scripts": {
