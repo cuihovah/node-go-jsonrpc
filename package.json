@@ -1,0 +1,20 @@
+{
+  "name": "node-go-jsonrpc",
+  "version": "1.0.0",
+  "description": "The client jsonrpc for golang",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuihovah/node-go-jsonrpc.git"
+  },
+  "keywords": [],
+  "author": "cuihovah@gmail.com",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/cuihovah/node-go-jsonrpc/issues"
+  },
+  "homepage": "https://github.com/cuihovah/node-go-jsonrpc#readme"
+}
